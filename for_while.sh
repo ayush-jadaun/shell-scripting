@@ -16,6 +16,10 @@ for (( i=0; i<5; i++ )); do
     ls
 done
 
+
+ls
+
+
 # Add a while loop
 echo "Starting while loop..."
 count=0
