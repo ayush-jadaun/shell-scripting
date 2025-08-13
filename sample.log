@@ -1,0 +1,12 @@
+2024-01-15 10:30:15 [INFO] Application started successfully
+2024-01-15 10:30:16 [INFO] Database connection established
+2024-01-15 10:31:22 [WARNING] High memory usage detected: 85%
+2024-01-15 10:32:45 [ERROR] Failed to process request: timeout
+2024-01-15 10:33:12 [INFO] User john logged in from 192.168.1.100
+2024-01-15 10:34:33 [ERROR] Database query failed: connection lost
+2024-01-15 10:35:21 [INFO] User jane logged in from 192.168.1.101
+2024-01-15 10:36:44 [WARNING] Disk usage above 90%
+2024-01-15 10:37:15 [INFO] Backup process completed
+2024-01-15 10:38:22 [ERROR] Authentication failed for user admin
+2024-01-15 10:39:33 [INFO] System maintenance scheduled
+2024-01-15 10:40:45 [WARNING] SSL certificate expires in 30 days
